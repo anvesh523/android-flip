@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="__tested_artifact__::FlipViewLibrary$Generated" generated="true"><source path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res"/></dataSet><dataSet config="__tested_artifact__::FlipViewLibrary" from-dependency="true" generated-set="__tested_artifact__::FlipViewLibrary$Generated"><source path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res"><file name="ic_action_search" path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res\drawable-hdpi-v4\ic_action_search.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res\drawable-hdpi-v4\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_search" path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res\drawable-mdpi-v4\ic_action_search.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res\drawable-mdpi-v4\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_search" path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\ic_action_search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="D:\Demo\FlipViewLibrary\build\intermediates\bundles\debug\res\values\values.xml" qualifiers=""><declare-styleable name="FlipViewController"><attr format="enum" name="orientation">
+			<enum name="vertical" value="0"/>
+			<enum name="horizontal" value="1"/>
+		</attr><attr format="enum" name="animationBitmapFormat">
+			<enum name="ARGB_8888" value="0"/>
+			<enum name="ARGB_4444" value="1"/>
+			<enum name="RGB_565" value="2"/>
+		</attr></declare-styleable><string name="app_name">Flip-Library</string><style name="AppTheme" parent="android:Theme.Light"/></file></source></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\Demo\FlipViewLibrary\src\androidTest\res"/><source path="D:\Demo\FlipViewLibrary\build\generated\res\rs\androidTest\debug"/><source path="D:\Demo\FlipViewLibrary\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Demo\FlipViewLibrary\src\androidTest\res"/><source path="D:\Demo\FlipViewLibrary\build\generated\res\rs\androidTest\debug"/><source path="D:\Demo\FlipViewLibrary\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\Demo\FlipViewLibrary\src\androidTestDebug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\Demo\FlipViewLibrary\src\androidTestDebug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FlipViewController"><attr format="enum" name="orientation">
+			<enum name="vertical" value="0"/>
+			<enum name="horizontal" value="1"/>
+		</attr><attr format="enum" name="animationBitmapFormat">
+			<enum name="ARGB_8888" value="0"/>
+			<enum name="ARGB_4444" value="1"/>
+			<enum name="RGB_565" value="2"/>
+		</attr></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Demo\\FlipViewLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Demo\\FlipViewLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "421,471",
+                        "endColumns": "49,57",
+                        "endOffsets": "466,524"
+                    }
+                }
+            ]
+        }
+    ]
+}

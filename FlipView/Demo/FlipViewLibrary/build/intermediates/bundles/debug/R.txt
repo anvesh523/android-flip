@@ -1,0 +1,14 @@
+int attr animationBitmapFormat 0x7f040001
+int attr orientation 0x7f040002
+int drawable ic_action_search 0x7f090001
+int drawable ic_launcher 0x7f090002
+int id ARGB_4444 0x7f0c0001
+int id ARGB_8888 0x7f0c0002
+int id RGB_565 0x7f0c0003
+int id horizontal 0x7f0c0004
+int id vertical 0x7f0c0005
+int string app_name 0x7f150001
+int style AppTheme 0x7f160001
+int[] styleable FlipViewController { 0x7f040001, 0x7f040002 }
+int styleable FlipViewController_animationBitmapFormat 0
+int styleable FlipViewController_orientation 1
